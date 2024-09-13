@@ -14,6 +14,7 @@
 - Buat database dengan nama dbpos
 - Lalu jalankan migrasi database nya, dengan perintah berikut.
 <code> php artisan migrate </code>
+- Jalankan seeder database
 <code> php artisan migrate:fresh --seed </code>
 
 - Lalu jalakan web server anda.
